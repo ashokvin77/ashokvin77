@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashok Maharjan
 
-I am a data scientist from a [TripleTen data science bootcamp](https://tripleten.com/) with a strong foundation in biology. How did this transition from biology to data science happen? The inception for data analysis was sown when I was doing my master's in biological science at Bowling Green State University. I was aware at that time that creating amazing graphs and unraveling the story hidden in data was always a challenging task. I always wondered what it would be like if I knew more about data science.
+I am a data scientist with a strong foundation in biology. How did this transition from biology to data science happen? The inception for data analysis was sown when I was doing my master's in biological science at Bowling Green State University. I was aware at that time that creating amazing graphs and unraveling the story hidden in data was always a challenging task. I always wondered what it would be like if I knew more about data science.
 
 While working as a lab assistant at the University of Toledo, I was amazed by the volcano plot and heat map of gene expression data created by one of the postdocs working in our lab. Later, working as a research senior technician, I taught myself single-cell RNA analysis and microbiome analysis. Particularly, I was awestruck by how UMAP created clusters of different cells. As I explored more, I realized that an unsupervised machine learning algorithm was behind that wonderful figure.
 
