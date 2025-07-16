@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Ashok Maharjan
 
-I am a data scientist with a strong foundation in biology. How did this transition from biology to data science happen? The inception for data analysis was sown when I was doing my master's in biological science at Bowling Green State University. I was aware at that time that creating amazing graphs and unraveling the story hidden in data was always a challenging task. I always wondered what it would be like if I knew more about data science.
+I am a data scientist with a strong foundation in biology.
 
-While working as a lab assistant at the University of Toledo, I was amazed by the volcano plot and heat map of gene expression data created by one of the postdocs working in our lab. Later, working as a research senior technician, I taught myself single-cell RNA analysis and microbiome analysis. Particularly, I was awestruck by how UMAP created clusters of different cells. As I explored more, I realized that an unsupervised machine learning algorithm was behind that wonderful figure.
+My journey into data science began during my master's in biological science at Bowling Green State University, where I discovered that creating compelling visualizations and unraveling stories hidden in data was both challenging and fascinating. I found myself constantly wondering about the deeper mechanisms behind data analysis.
 
-I was at the crossroads of my career: continue working in the lab or pursue a career that had always fascinated me? I am a person who is curious and passionate about something, and I will achieve that goal no matter what. I decided to follow my passion. I decided to deep dive into data science. It was a turning point in my life.
+While working as a lab assistant at the University of Toledo, I was captivated by the volcano plots and heatmaps of gene expression data created by one of the postdocs in our lab. This fascination grew as I advanced to research senior technician, where I taught myself single-cell RNA analysis and microbiome analysis. I was particularly awestruck by how UMAP created beautiful clusters of different cells. When I discovered that unsupervised machine learning algorithms were behind these wonderful visualizations, I knew I had found my path.
 
-To pursue my passion, I began self-study to master Python programming and pandas for data wrangling. To cement my knowledge into structured and goal-oriented study, I enrolled in the [TripleTen data science bootcamp](https://tripleten.com/). I completed 15+ hands-on projects across:
+This realization sparked a pivotal moment in my career. The power of data to reveal hidden patterns and drive meaningful insights became undeniable to me. I made the decision to transition fully into data science, driven by the power of data to create meaningful impact across diverse fields.
+
+I began with intensive self-study in Python programming and pandas for data wrangling. To formalize my expertise, I enrolled in the TripleTen data science bootcamp, where I completed 15+ hands-on projects across:
 
 🧠 Machine Learning & Deep Learning  
 📊 Data Analysis & Visualization  
