@@ -2,15 +2,30 @@
 
 ### Data Scientist | Machine Learning Practitioner | Deep Learning Enthusiast
 
-I am a Data Scientist driven by the curiosity to uncover answers shrouded in data. With a background in scientific research, I realized that science wasn't just about generating data but unraveling the story hidden within it. I have since pivoted to computational data science, applying that same scientific rigor to solve complex business and technical problems.
-
-I specialize in **Machine Learning**, **Predictive Modeling**, and **Model Deployment**, with a focus on building scalable solutions for real-world applications.
+I am a Data Scientist driven by the curiosity to uncover answers shrouded in data. With a background in scientific research, I realized that science wasn't just about generating data but unraveling the story hidden within it. I have since pivoted to computational data science, applying that same scientific rigor to solve complex biological and technical problems.
 
 ---
+## 🏆 Featured Experience & Deployments
+
+### **1. [📄 Multi-Document RAG Pipeline (Pfizer Externship)]**
+*An AI pipeline that answers questions from messy pharmaceutical PDFs and cites its sources.*
+
+> **"Real documents are a mess. The pipeline has to deal with that."**
+
+* **The Challenge:** Pharmaceutical PDFs bundle five to ten unrelated documents into one file.
+* **The Solution:** An adaptive RAG pipeline. Per-page OCR routing (pypdf first, Tesseract fallback), LLM page classification to detect document boundaries, chunks tagged with doc_id and page range, BGE-Small embeddings in a FAISS index, and Mistral-7B answering with citations or refusing when the context doesn't support an answer.
+* **The Result:** 100% accuracy on the pharmaceutical test set. Every answer cites its source page, and the model refuses when the documents don't support an answer.
+
+👇 **Click below to watch the demo:**
+
+[![Watch the Demo](https://cdn.loom.com/sessions/thumbnails/50154f762cd04cab8f7be9666ddf797e-with-play.gif)](https://www.loom.com/share/50154f762cd04cab8f7be9666ddf797e)
+
+*([Click here to watch the full demo](https://www.loom.com/share/50154f762cd04cab8f7be9666ddf797e))*
+
 
 ## 🏆 Featured Experience & Deployments
 
-### **1. [🎵 Music Genre Classification (Cuetessa Externship)]**
+### **2. [🎵 Music Genre Classification (Cuetessa Externship)]**
 *Deep Learning work designed to categorize audio tracks for recommendation engines.*
 
 > **"Bridging the gap between raw audio data and user experience."**
@@ -24,14 +39,6 @@ I specialize in **Machine Learning**, **Predictive Modeling**, and **Model Deplo
 *([Click here to watch the full presentation clip](https://youtu.be/JqZ7UVsmHHU))*
 
 <br>
-
-### **2. [🚗 Car Price Prediction API (Live on AWS)]**
-*End-to-end Machine Learning pipeline deployed to production.*
-
-* **Status:** 🟢 **Live Production**
-* **The Tech:** LightGBM, FastAPI, Docker, AWS EC2.
-* **The Work:** Trained a LightGBM model on 297K listings, containerized the application with Docker, and deployed a live REST API on an AWS EC2 instance.
-* **[🔴 Try the Live API Here](http://18.223.131.80:8000/docs)** | **[View Code](https://github.com/ashokvin77/car-price-prediction-ml)**
 
 ---
 
