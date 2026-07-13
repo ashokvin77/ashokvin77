@@ -18,7 +18,7 @@ I am a Data Scientist driven by the curiosity to uncover answers shrouded in dat
 
 👇 **Click below to watch the demo:**
 
-[![Watch the Demo](https://cdn.loom.com/sessions/thumbnails/50154f762cd04cab8f7be9666ddf797e-with-play.gif)](https://www.loom.com/share/50154f762cd04cab8f7be9666ddf797e)
+[![Watch the Demo](rag-demo.png)](https://www.loom.com/share/50154f762cd04cab8f7be9666ddf797e)
 
 *([Click here to watch the full demo](https://www.loom.com/share/50154f762cd04cab8f7be9666ddf797e))*
 
