@@ -41,20 +41,16 @@ I am a Data Scientist driven by the curiosity to uncover answers shrouded in dat
 <br>
 
 ---
+## 🧬 Biology + Machine Learning
 
-## 🧰 Tech Stack & Tools
+| Project | Description & Key Tech | Link |
+| :--- | :--- | :---: |
+| **Protein Function Prediction** | **Scientific Goal:** Annotate uncharacterized proteins.<br>Predicted GO terms from raw sequence using a protein language model, reaching **test auPRC 0.618** on CAFA5.<br>🛠 *ESM2-650M, PyTorch, Hugging Face* | [View](https://github.com/ashokvin77/protein-lm-function) |
+| **Somatic Variant Calling** | **Scientific Goal:** Find cancer driver mutations.<br>Tumor/normal pipeline on HCC1395 (chr17). Recovered **TP53 R175H at AF 0.987** against a truth-set value of 0.993.<br>🛠 *Snakemake, BWA, GATK MuTect2, SnpEff* | [View](https://github.com/ashokvin77/breast-cancer-variant-calling) |
+| **COVID-19 scRNA-seq Reanalysis** | **Scientific Goal:** Characterize the immune response.<br>Reanalyzed GSE150728 PBMCs. Found **interferon-stimulated genes up** and **MHC-II genes down** in COVID monocytes.<br>🛠 *Scanpy, DESeq2, Pseudobulk* | [View](https://github.com/ashokvin77/covid19-pbmc-scrnaseq-) |
+| **Skin Lesion Classification** | **Scientific Goal:** Support dermoscopy triage.<br>Multi-class CNN on ISIC images, reaching **72.1% test accuracy** and macro F1 0.699 across imbalanced classes.<br>🛠 *ConvNeXt-Tiny, PyTorch, Transfer Learning* | [View](https://github.com/ashokvin77/skin-cancer-classification) |
 
-| **Domain** | **Tools & Libraries** |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=flat&logo=postgresql) |
-| **Machine Learning** | `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `Statsmodels` |
-| **Deep Learning** | `TensorFlow` `Keras` `PyTorch` `CNNs` |
-| **Data Engineering** | `Pandas` `NumPy` `Docker` `AWS (EC2)` `FastAPI` |
-| **Visualization** | `Matplotlib` `Seaborn` `Plotly` `Tableau` |
-
----
-
-## 📂 Project Portfolio
+## 📂 Machine Learning & Analytics
 
 | Project | Description & Key Tech | Link |
 | :--- | :--- | :---: |
@@ -72,6 +68,7 @@ I am a Data Scientist driven by the curiosity to uncover answers shrouded in dat
 | **Ride Sharing SQL Analysis** | **Business Goal:** Market analysis.<br>Exploratory analysis on ride durations and popular locations in Chicago.<br>🛠 *SQL, Seaborn, Correlation Analysis* | [View](https://github.com/ashokvin77/sql_ride_sharing) |
 | **Video Game Success Analysis** | **Business Goal:** Advertising strategy.<br>Explored key factors in video game success to inform marketing budgets.<br>🛠 *EDA, Pandas, Trend Analysis* | [View](https://github.com/ashokvin77/Video_games) |
 | **Car Advertisement App** | **Business Goal:** Interactive visualization.<br>Deployed a **Streamlit** dashboard visualizing trends in US used vehicle market data.<br>🛠 *Streamlit, Plotly, Web Deployment* | [View](https://github.com/ashokvin77/Car_advertisement) |
+| **Diabetes Health Indicators** | **Business Goal:** Population health screening.<br>Predicted diabetes risk from BRFSS survey data, handling severe class imbalance across 250K+ records.<br>🛠 *Scikit-learn, Imbalanced Classification, EDA* | [View](https://github.com/ashokvin77/diabetes-health-indicators-ML) |
 
 ---
 
